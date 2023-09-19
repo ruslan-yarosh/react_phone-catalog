@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.c9756424.chunk.css",
-    "main.js": "./static/js/main.5400be97.chunk.js",
-    "main.js.map": "./static/js/main.5400be97.chunk.js.map",
+    "main.css": "./static/css/main.6ae33a24.chunk.css",
+    "main.js": "./static/js/main.d2ba669e.chunk.js",
+    "main.js.map": "./static/js/main.d2ba669e.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/css/2.c97ec839.chunk.css": "./static/css/2.c97ec839.chunk.css",
@@ -10,11 +10,11 @@
     "static/js/2.46871353.chunk.js.map": "./static/js/2.46871353.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.c97ec839.chunk.css.map": "./static/css/2.c97ec839.chunk.css.map",
-    "static/css/main.c9756424.chunk.css.map": "./static/css/main.c9756424.chunk.css.map",
+    "static/css/main.6ae33a24.chunk.css.map": "./static/css/main.6ae33a24.chunk.css.map",
     "static/js/2.46871353.chunk.js.LICENSE.txt": "./static/js/2.46871353.chunk.js.LICENSE.txt",
     "static/media/Cart.5020f1ab.svg": "./static/media/Cart.5020f1ab.svg",
     "static/media/Chevron(ArrowDown).6a1c94bb.svg": "./static/media/Chevron(ArrowDown).6a1c94bb.svg",
-    "static/media/App.scss": "./static/media/Chevron(ArrowLeft).c0d01b22.svg",
+    "static/media/Chevron(ArrowLeft).c0d01b22.svg": "./static/media/Chevron(ArrowLeft).c0d01b22.svg",
     "static/media/Chevron(ArrowRight).4756c064.svg": "./static/media/Chevron(ArrowRight).4756c064.svg",
     "static/media/Chevron(ArrowUp).470683b8.svg": "./static/media/Chevron(ArrowUp).470683b8.svg",
     "static/media/Search.scss": "./static/media/Close.c0b1179e.svg",
@@ -41,7 +41,7 @@
     "static/js/runtime-main.330dba63.js",
     "static/css/2.c97ec839.chunk.css",
     "static/js/2.46871353.chunk.js",
-    "static/css/main.c9756424.chunk.css",
-    "static/js/main.5400be97.chunk.js"
+    "static/css/main.6ae33a24.chunk.css",
+    "static/js/main.d2ba669e.chunk.js"
   ]
 }
